@@ -4,6 +4,10 @@
 
 This is LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
+### Links on GitHub
+
+[Liri](https://github.com/plinck/Liri)
+
 ### Screen Shots
 
 ### Components
@@ -26,11 +30,11 @@ This is LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interp
 
 This is on a normal GitHub Repository, but not deployed as it is CLI app. 
 
-Because of this, I include screenshots, and animaited gifs showing the working app. You can include these screenshots or a link to a video in this `README.md` file.
+Because of this, I include screenshots, and animaited gifs showing the working app. These are in this README file.
 
-* Include screenshots (or a video) of typical user flows through your application (for the customer and if relevant the manager/supervisor). This includes views of the prompts and the responses after their selection (for the different selection options).
+* Includes screenshots of typical user flows through your application (for the customer and if relevant the manager/supervisor). This includes views of the prompts and the responses after their selection (for the different selection options).
 
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works. 
+* Includes other screenshots to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works. 
 
 * Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
 
@@ -38,7 +42,11 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 
 ### Usage / Commands
 
-1. `node liri.js concert-this <artist/band name here>`
+1. `node liri.js ?`
+   
+   * Shows the list of available commands
+
+2. `node liri.js concert-this <artist/band name here>`
 
    * Searched the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and renders the following information about each event to the terminal:
 
@@ -48,7 +56,7 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-2. `node liri.js spotify-this-song '<song name here>'`
+3. `node liri.js spotify-this-song '<song name here>'`
 
    * Shows the following information about the song in your terminal/bash window
 
@@ -64,7 +72,7 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 
    * Utilizes the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
 
-3. `node liri.js movie-this '<movie name here>'`
+4. `node liri.js movie-this '<movie name here>'`
 
    * Outputs the following information to your terminal/bash window:
 
@@ -83,7 +91,7 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 
    * I use the `axios` package to retrieve data from the OMDB API. The OMDB API requires an API key. You may use `trilogy`.
 
-4. `node liri.js do-what-it-says`
+5. `node liri.js do-what-it-says`
 
    * Using the `fs` Node package, LIRI takes the text inside of random.txt and then uses it to call one of LIRI's commands.
 
