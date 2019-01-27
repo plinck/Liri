@@ -7,6 +7,7 @@ This is LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interp
 ### Links on GitHub
 
 [Liri](https://github.com/plinck/Liri)
+[My Portfolio](https://plinck.github.io/My-Portfolio/)
 
 ### Screen Shots
 
