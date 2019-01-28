@@ -28,14 +28,15 @@ function spotifySearch(songName) {
         // let displayData = JSON.stringify(data, null, 2);
         //console.log(displayData);
 
-        console.log(`\nSong: ${searchForSong}`);
+        logAppend(`\n----------------- Search Spotify ----------------------------`);
+        logAppend(`\nSong: ${searchForSong}`);
 
         for (let i in data.tracks.items) {
-            console.log("\nSong Information");
-            console.log("----------------");
-            console.log(`Artist: ${data.tracks.items[i].artists[0].name}`);
-            console.log(`Song Preview: ${data.tracks.items[i].external_urls.spotify}`);
-            console.log(`Album: ${data.tracks.items[i].album.name}`);
+            logAppend("\nSong Information");
+            logAppend("----------------");
+            logAppend(`Artist: ${data.tracks.items[i].artists[0].name}`);
+            logAppend(`Song Preview: ${data.tracks.items[i].external_urls.spotify}`);
+            logAppend(`Album: ${data.tracks.items[i].album.name}`);
         }
     });
 }
@@ -52,14 +53,20 @@ function searchOMDB(movieName) {
     axios.get(`http://www.omdbapi.com/?t=${searchForMovie}&y=&plot=short&apikey=${keys.omdb.apiKey}`)
         .then(
             function (response) {
-                console.log(`Title: ${response.data.Title}`);
-                console.log(`Year: ${response.data.Year}`);
-                console.log(`IMDB Rating: ${response.data.IMDBRating}`);
-                console.log(`Rotten Tomatoes Rating: ${response.data.RottenTomatoesRating}`);
-                console.log(`Country: ${response.data.Country}`);
-                console.log(`Language: ${response.data.Language}`);
-                console.log(`Plot: ${response.data.Plot}`);
-                console.log(`Actors: ${response.data.Actors}`);
+                //console.log(JSON.stringify(response.data, null, 2));
+
+                logAppend(`\n----------------- Search OMDB ----------------------------`);
+                logAppend(`Title: ${response.data.Title}`);
+                logAppend(`Year: ${response.data.Year}`);
+                logAppend(`Ratings`);
+
+                for (let i in response.data.Ratings) {
+                    logAppend(`${response.data.Ratings[i].Source}: ${response.data.Ratings[i].Value}`);
+                }
+                logAppend(`Country: ${response.data.Country}`);
+                logAppend(`Language: ${response.data.Language}`);
+                logAppend(`Plot: ${response.data.Plot}`);
+                logAppend(`Actors: ${response.data.Actors}`);
             }
         )
         .catch(function (error) {
@@ -76,35 +83,23 @@ function searchBand(bandName) {
     if (bandName != undefined) {
         searchForBand = bandName;
     }
-
     let requestURL = `https://rest.bandsintown.com/artists/${searchForBand}/events?app_id=${keys.bandsInTown.apiKey}`;
-
-    let output = {};    // to print and log
 
     axios.get(requestURL)
         .then(
             function (response) {
-                output.info = `${searchForBand} Upcoming concerts`;
-                console.log(`${searchForBand} Upcoming concerts`);
-
-                output.details = [];
+                logAppend(`\n-------------------- Search Bands in Town -------------------------`);
+                logAppend(`${searchForBand} Upcoming concerts`);
 
                 // print each upcoming evennt
                 for (let i in response.data) {
-                    let details = {};
                     let displayDate = moment(response.data[i].datetime).format("MM/DD/YYYY");
-                    details.title = "PLAYING AT INFO";
-                    details.name = `${response.data[i].venue.name}`;
-                    details.location = `${response.data[i].venue.city}`;
-                    details.date = `${displayDate}`;
 
-                    console.log(`\nTitle: ${details.title}`);
-                    console.log(`Name: ${details.name}`);
-                    console.log(`Location: ${details.location}`);
-                    console.log(`Date: ${details.date}`);
-                    output.details.push(details);
+                    logAppend(`\nLOCATIONS`);
+                    logAppend(`Name: ${response.data[i].venue.name}`);
+                    logAppend(`Location: ${response.data[i].venue.city}`);
+                    logAppend(`Date: ${displayDate}`);
                 }
-                log(JSON.stringify(output,null,2));
             }
         )
         .catch(function (error) {
@@ -134,15 +129,16 @@ function taskFromFile() {
     });
 }
 
-function log(dataToLog) {
-    fs.appendFile("log.txt", dataToLog, function(err) {
+function logAppend(dataToLog) {
+    console.log(dataToLog);
+    fs.appendFile("log.txt", `${dataToLog}\n`, function (err) {
 
         // If an error was experienced we will log it.
         if (err) {
-          console.log(err);
+            console.log(err);
         }
-            
-      });      
+
+    });
 }
 
 // Help for command line

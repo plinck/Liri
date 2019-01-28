@@ -1,10 +1,10 @@
 # LIRI
 
-### Overview
+## Overview
 
 This is LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
-I also log all the output (in JSON format) to a file called log.txt
+I also log all the output to a file called log.txt
 
 ### Links on GitHub
 
@@ -17,7 +17,7 @@ I also log all the output (in JSON format) to a file called log.txt
 
 1. LIRI can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
-2. To retrieve the data that will power this app, I use `axios` package to call Bands in Town, Spotify and OMDB APIs. 
+2. To retrieve the data that will power this app, I use `axios` package to call Bands in Town, Spotify and OMDB APIs.
 
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
 
@@ -31,13 +31,13 @@ I also log all the output (in JSON format) to a file called log.txt
 
 ## GitHub
 
-This is on a normal GitHub Repository, but not deployed as it is CLI app. 
+This is on a normal GitHub Repository, but not deployed as it is CLI app.
 
 Because of this, I include screenshots, and animaited gifs showing the working app. These are in this README file.
 
 * Includes screenshots of typical user flows through your application (for the customer and if relevant the manager/supervisor). This includes views of the prompts and the responses after their selection (for the different selection options).
 
-* Includes other screenshots to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works. 
+* Includes other screenshots to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
 
 * API keys are private since I keep the in .env local to the computer running the app
 
@@ -105,7 +105,5 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 * Create sample images and add to my portfolio
   
 * Put output / running images in README.md
-
-* Finish logging all to `log.txt` (in JSON format).  Already done for bands in town, but need to for the others
   
 - - -

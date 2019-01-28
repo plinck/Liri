@@ -1,45 +1,278 @@
-{
-  "info": "Bluedot Upcoming concerts",
-  "details": [
-    {
-      "title": "PLAYING AT INFO",
-      "name": "Jodrell Bank",
-      "location": "Macclesfield",
-      "date": "07/18/2019"
-    },
-    {
-      "title": "PLAYING AT INFO",
-      "name": "Jodrell Bank",
-      "location": "Macclesfield",
-      "date": "07/19/2019"
-    },
-    {
-      "title": "PLAYING AT INFO",
-      "name": "Jodrell Bank",
-      "location": "Macclesfield",
-      "date": "07/20/2019"
-    }
-  ]
-}{
-  "info": "Bluedot Upcoming concerts",
-  "details": [
-    {
-      "title": "PLAYING AT INFO",
-      "name": "Jodrell Bank",
-      "location": "Macclesfield",
-      "date": "07/18/2019"
-    },
-    {
-      "title": "PLAYING AT INFO",
-      "name": "Jodrell Bank",
-      "location": "Macclesfield",
-      "date": "07/19/2019"
-    },
-    {
-      "title": "PLAYING AT INFO",
-      "name": "Jodrell Bank",
-      "location": "Macclesfield",
-      "date": "07/20/2019"
-    }
-  ]
-}
+
+----------------- Search Spotify ----------------------------
+
+Song: "I Want it That Way"
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Song Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+Song Information
+Song Preview: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+Song Information
+----------------
+Artist: Anthem Lights
+Song Preview: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+
+Song Information
+----------------
+Artist: Tyler and Mark
+Song Preview: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+
+Song Information
+----------------
+Artist: "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+
+Song Information
+----------------
+Artist: Dynamite Boy
+Song Preview: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+
+Song Information
+----------------
+Artist: Glee Cast
+Song Preview: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Song Information
+----------------
+Artist: Boyce Avenue
+Song Preview: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Album: Cover Sessions, Vol. 2
+
+Song Information
+Artist: Manuel Costa
+----------------
+Song Preview: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Album: I Want It That Way
+
+Song Information
+----------------
+Artist: Steel Panther
+Song Preview: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+
+Song Information
+----------------
+Artist: Scary Pockets
+Song Preview: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Album: Nu Funk
+
+Song Information
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Preview: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Album: Selfies on Kodachrome
+Artist: Backstreet Boys
+----------------
+Artist: "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Album: The Essential "Weird Al" Yankovic
+
+Song Information
+----------------
+Artist: #90s Update
+Song Preview: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Album: #90s Update
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Album: NOW That's What I Call 90s Pop
+----------------
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Preview: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Song Information
+----------------
+Artist: Landon Austin & Julia Sheer
+Song Preview: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+
+Song Information
+
+Song Information
+----------------
+
+Song Information
+Song Preview: https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx
+Album: Kidz Bop
+Album: Millennium
+Album: I Want It That Way
+Artist: Kidz Bop Kids
+
+----------------- Search OMDB ----------------------------
+Title: Mr. Nobody
+Year: 2009
+Internet Movie Database: 7.9/10
+Rotten Tomatoes: 67%
+Ratings
+Country: Belgium, Germany, Canada, France, USA, UK
+Metacritic: 63/100
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+----------------- Search Spotify ----------------------------
+
+Song: Indiscipline
+
+Song Information
+----------------
+Artist: King Crimson
+Song Preview: https://open.spotify.com/track/0OFUqOmUd4MFCVRehZ7nGT
+Album: Indiscipline (Live in Mexico, 2017)
+
+Song Information
+----------------
+Artist: King Crimson
+Song Preview: https://open.spotify.com/track/69Ac5YRM0A7nVCXaCaNLqY
+Album: Meltdown (Live in Mexico, 2017)
+
+Song Information
+----------------
+Artist: King Crimson
+
+Song Information
+----------------
+Artist: King Crimson
+Song Preview: https://open.spotify.com/track/7tgxb2z9UW8dlp09SuG0kB
+Song Preview: https://open.spotify.com/track/5PMsF4V067gtvxC9TLErjb
+Album: Absent Lovers (Live in Montreal, 1984)
+----------------
+Artist: King Crimson
+Album: VROOOM VROOOM (Live, 1995/96)
+
+Song Information
+
+Song Information
+Album: Live in Vienna (1 December 2016)
+Artist: King Crimson
+----------------
+Album: Live In Chicago, 28 June 2017 (Collector's Club Special Edition)
+Song Preview: https://open.spotify.com/track/4MwkX2CRY0ArmVJHxOoKMc
+Song Preview: https://open.spotify.com/track/0p3vp18ths3hXbisJvGMB7
+
+Song Information
+----------------
+Artist: Orchestre Tropicana
+Song Preview: https://open.spotify.com/track/1vukkItRjsPKe381nSgwuq
+Album: 20ème. Anniversaire
+----------------
+Artist: The Crimson ProjeKCt
+Song Preview: https://open.spotify.com/track/7hWi27qC1PGJjb1xsSI0rA
+
+Song Information
+Album: Live In Tokyo
+
+Song Information
+----------------
+Artist: LLETIC
+Song Preview: https://open.spotify.com/track/3K6cm63Pn9IJDQMASHjygJ
+Album: Official rap 2013
+
+Song Information
+Artist: Indiscipline
+----------------
+Song Preview: https://open.spotify.com/track/230FxmOuHuqI4CKeuRwKFy
+Album: In My Guts
+
+Song Information
+----------------
+Artist: Rise Of The Fallen
+Song Preview: https://open.spotify.com/track/2QNDynhOKTlrnZ53nYE58Z
+Album: Bloodline
+
+Song Information
+----------------
+Artist: Brother Mudada
+Song Preview: https://open.spotify.com/track/4OODQ0KPKiyfaNgeQYUiBp
+Album: Obamamania
+
+Song Information
+----------------
+Artist: Edgar Morin
+Song Preview: https://open.spotify.com/track/1NGoFc3mrqFGGRlZ72zsaZ
+Album: Entretien avec Edgar Morin
+
+Song Information
+----------------
+Artist: Death Wish Squirrel
+Song Preview: https://open.spotify.com/track/20x7e7RG5coOgvk7S23y1d
+Album: We're Through Being Kind of Cool
+
+Song Information
+----------------
+Artist: Médéric Collignon
+Song Preview: https://open.spotify.com/track/73RsfUGVfMsN6g4QlI4uuX
+Album: À la recherche du roi frippé
+
+Song Information
+----------------
+Artist: Dennis Brown
+Song Preview: https://open.spotify.com/track/3UZ946wvEuU1XoAinle2eu
+Album: Forever Dennis 1957-1999
+
+Song Information
+----------------
+Artist: Ikenga Super Stars of Africa
+Song Preview: https://open.spotify.com/track/50ESVBjegkNjm8fx5Fausx
+Album: 51 Lex Presents Uwa Bu Egwu
+
+Song Information
+----------------
+Artist: Chief Vincent Okoroego
+Song Preview: https://open.spotify.com/track/2xjqdtkprWm8ub1FHYPhUi
+Album: Greats Hits of Ikenga Superstars of Africa
+
+Song Information
+----------------
+Artist: Ikenga Super Stars of Africa
+Song Preview: https://open.spotify.com/track/7binWTQ7C8sV6EO6oH5eKj
+Album: War Against Indiscipline
+
+Song Information
+----------------
+Artist: Indiscipline
+Song Preview: https://open.spotify.com/track/3iTIHeuTy3pPiQbpdWRgcz
+Album: Sanguinea
+
+-------------------- Search Bands in Town -------------------------
+Bluedot Upcoming concerts
+
+LOCATIONS
+Name: Jodrell Bank
+Location: Macclesfield
+Date: 07/18/2019
+
+LOCATIONS
+Name: Jodrell Bank
+Location: Macclesfield
+Date: 07/19/2019
+
+LOCATIONS
+Name: Jodrell Bank
+Location: Macclesfield
+Date: 07/20/2019
