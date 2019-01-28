@@ -4,6 +4,7 @@
 let Spotify = require('node-spotify-api');
 let axios = require('axios');
 let moment = require('moment');
+var fs = require("fs");
 
 let keys = require("./keys.js");
 
@@ -78,20 +79,32 @@ function searchBand(bandName) {
 
     let requestURL = `https://rest.bandsintown.com/artists/${searchForBand}/events?app_id=${keys.bandsInTown.apiKey}`;
 
+    let output = {};    // to print and log
+
     axios.get(requestURL)
         .then(
             function (response) {
-                console.log(`\n${searchForBand} Upcoming concerts`);
+                output.info = `${searchForBand} Upcoming concerts`;
+                console.log(`${searchForBand} Upcoming concerts`);
+
+                output.details = [];
 
                 // print each upcoming evennt
                 for (let i in response.data) {
-                    console.log("\nPLAYING AT INFO");
-                    console.log("----------------");
-                    console.log(`Name: ${response.data[i].venue.name}`);
-                    console.log(`Location: ${response.data[i].venue.city}`);
+                    let details = {};
                     let displayDate = moment(response.data[i].datetime).format("MM/DD/YYYY");
-                    console.log(`Date: ${displayDate}`);
+                    details.title = "PLAYING AT INFO";
+                    details.name = `${response.data[i].venue.name}`;
+                    details.location = `${response.data[i].venue.city}`;
+                    details.date = `${displayDate}`;
+
+                    console.log(`\nTitle: ${details.title}`);
+                    console.log(`Name: ${details.name}`);
+                    console.log(`Location: ${details.location}`);
+                    console.log(`Date: ${details.date}`);
+                    output.details.push(details);
                 }
+                log(JSON.stringify(output,null,2));
             }
         )
         .catch(function (error) {
@@ -103,7 +116,33 @@ function searchBand(bandName) {
 
 // Get task to do from the file random.txt
 function taskFromFile() {
+    fs.readFile("random.txt", "utf8", function (error, data) {
 
+        // If the code experiences any errors it will log the error to the console.
+        if (error) {
+            return console.log(error);
+        }
+
+        // Then split it by commas (to make it more readable)
+        let dataArr = data.split(",");
+        // console.log(dataArr);
+
+        let command = dataArr[0];
+        let parameter = dataArr[1];
+
+        runCommand(command, parameter);
+    });
+}
+
+function log(dataToLog) {
+    fs.appendFile("log.txt", dataToLog, function(err) {
+
+        // If an error was experienced we will log it.
+        if (err) {
+          console.log(err);
+        }
+            
+      });      
 }
 
 // Help for command line
@@ -116,33 +155,38 @@ function moduleHelp() {
     console.log(`node liri.js do-what-it-says`);
 }
 
+// run function based on command entered
+function runCommand(command, parameter) {
+    // Run function based on command passed
+    switch (command) {
+        case `spotify-this-song`:
+            spotifySearch(parameter);
+            break;
+
+        case `movie-this`:
+            searchOMDB(parameter);
+            break;
+
+        case `concert-this`:
+            searchBand(parameter);
+            break;
+
+        case `do-what-it-says`:
+            taskFromFile(parameter);
+            break;
+
+        case `?` || `help`:
+            moduleHelp();
+            break;
+
+        default:
+            moduleHelp();
+            break;
+    }
+}
+
+// MAIN Program Start
 let command = process.argv[2];
 let parameter = process.argv[3];
 
-// Need help
-switch (command) {
-    case `spotify-this-song`:
-        spotifySearch(parameter);
-        break;
-
-    case `movie-this`:
-        searchOMDB(parameter);
-        break;
-
-    case `concert-this`:
-        searchBand(parameter);
-        break;
-
-    case `do-what-it-says`:
-        taskFromFile(parameter);
-        break;
-
-    case `?` || `help`:
-        moduleHelp();
-        break;
-
-    default:
-        moduleHelp();
-        break;
-
-}
+runCommand(command, parameter);

@@ -1,8 +1,10 @@
-# LIRI Bot
+# LIRI
 
 ### Overview
 
 This is LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
+
+I also log all the output (in JSON format) to a file called log.txt
 
 ### Links on GitHub
 
@@ -26,7 +28,7 @@ This is LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interp
    * [Moment](https://www.npmjs.com/package/moment)
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
-   
+
 ## GitHub
 
 This is on a normal GitHub Repository, but not deployed as it is CLI app. 
@@ -37,14 +39,12 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 
 * Includes other screenshots to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works. 
 
-* Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
-
 * API keys are private since I keep the in .env local to the computer running the app
 
 ### Usage / Commands
 
 1. `node liri.js ?`
-   
+
    * Shows the list of available commands
 
 2. `node liri.js concert-this <artist/band name here>`
@@ -102,12 +102,10 @@ Because of this, I include screenshots, and animaited gifs showing the working a
 
 ### To Do
 
-* Create icon and add to my portfolio
+* Create sample images and add to my portfolio
+  
+* Put output / running images in README.md
 
-* In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
-
-* Make sure you append each command you run to the `log.txt` file. 
-
-* Do not overwrite your file each time you run a command.
+* Finish logging all to `log.txt` (in JSON format).  Already done for bands in town, but need to for the others
   
 - - -
