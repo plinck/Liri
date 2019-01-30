@@ -276,3 +276,445 @@ LOCATIONS
 Name: Jodrell Bank
 Location: Macclesfield
 Date: 07/20/2019
+
+-------------------- Search Bands in Town -------------------------
+Madonna Upcoming concerts
+
+-------------------- Search Bands in Town -------------------------
+Name: Pepsi Center
+Location: Denver
+Date: 02/07/2019
+Name: BOK Center
+Location: Tulsa
+Date: 02/09/2019
+
+LOCATIONS
+Name: CenturyLink Center Omaha
+Location: Omaha
+Date: 02/12/2019
+
+LOCATIONS
+Name: Sprint Center
+Location: Kansas City
+Date: 02/13/2019
+Name: Madison Square Garden
+
+LOCATIONS
+Location: New York
+Date: 02/18/2019
+
+LOCATIONS
+Name: Wisconsin Entertainment and Sports Center
+Location: Milwaukee
+Date: 02/19/2019
+
+LOCATIONS
+Name: Target Center
+Location: Minneapolis
+Date: 02/21/2019
+
+LOCATIONS
+Name: U.S. Bank Arena
+Location: Cincinnati
+Date: 02/27/2019
+
+LOCATIONS
+Name: Times Union Center
+Location: Albany
+Date: 03/01/2019
+
+LOCATIONS
+Name: Barclays Center
+Location: Brooklyn
+Date: 03/08/2019
+
+LOCATIONS
+Name: PNC Arena
+Location: Raleigh
+Date: 03/12/2019
+
+LOCATIONS
+Name: Colonial Life Arena
+Location: Columbia
+Date: 03/13/2019
+
+LOCATIONS
+Name: Jacksonville Veterans Memorial Arena
+Location: Jacksonville
+Date: 03/15/2019
+
+LOCATIONS
+Name: Tauron Arena
+Location: Kraków
+Date: 05/04/2019
+
+LOCATIONS
+Name: O2 Arena
+Location: Prague
+Date: 05/07/2019
+
+LOCATIONS
+Name: Ziggo Dome
+Location: Nieuw-amsterdam
+Date: 05/15/2019
+
+LOCATIONS
+Name: Royal Arena
+Location: Copenhagen
+Date: 05/18/2019
+
+LOCATIONS
+Name: Scandinavium
+Location: Goteborg
+Date: 05/19/2019
+Elton John Upcoming concerts
+
+LOCATIONS
+
+LOCATIONS
+
+----------------- Search Spotify ----------------------------
+
+Song: Nadonna
+----------------
+Song Preview: https://open.spotify.com/track/0aRcBcogFW6zq4fdgNQPVR
+Album: 100 campane 100 canzoni
+----------------
+Artist: Girolamo Frescobaldi
+Song Preview: https://open.spotify.com/track/5gZS1YQth35Xst6idxx8Vf
+Album: Frescobaldi Complete Edition
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/3Ruaa9k1YkkUAwsajZuCrS
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/3FH89cueZyEtvfjeTMeKUp
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/2ARcqZsR9V0DGGEDAZsROY
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/1qTkD7geRtuePJyxeSguMg
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/4mVuDtQTHiiJhVh1yypc2R
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/1dzDnsdnecHCjQv8Md7UzO
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/3kZHQmzr6ZvI3TkDrMYZAR
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/2flJLFJh0c50e0D9ZqcUb0
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/3T0MITu7njHGFyBl0y10zc
+Album: Prljavi ples
+
+Song Information
+----------------
+Artist: Nadonna
+Song Preview: https://open.spotify.com/track/4xm9iqhnyXBE22h14IZXgx
+Album: Prljavi ples
+
+Song Information
+
+Song Information
+Artist: Lando Fiorini
+
+----------------- Search OMDB ----------------------------
+Year: 2009
+Title: Mr. Nobody
+Rotten Tomatoes: 67%
+Metacritic: 63/100
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Country: Belgium, Germany, Canada, France, USA, UK
+Ratings
+Internet Movie Database: 7.8/10
+
+----------------- Search OMDB ----------------------------
+Title: The 300 Spartans
+Year: 1962
+Ratings
+Internet Movie Database: 6.7/10
+Country: USA
+Language: English
+Plot: A small army of Greeks spearheaded by 300 Spartans do battle with the whole invading Persian army.
+Actors: Richard Egan, Ralph Richardson, Diane Baker, Barry Coe
+
+----------------- Search Spotify ----------------------------
+----------------
+
+Song Information
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+Song: "I Want it That Way"
+
+Song Information
+Song Preview: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+----------------
+Artist: Anthem Lights
+
+Song Information
+Album: Covers Part IV
+
+Song Information
+----------------
+Artist: Tyler and Mark
+Song Preview: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+
+Song Information
+----------------
+Artist: "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+
+Song Information
+----------------
+Artist: Dynamite Boy
+Song Preview: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Song Information
+----------------
+Artist: Boyce Avenue
+Song Preview: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Album: Cover Sessions, Vol. 2
+
+Song Information
+----------------
+Artist: Manuel Costa
+Song Preview: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Album: I Want It That Way
+
+Song Information
+----------------
+Artist: Steel Panther
+Song Preview: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+
+Song Information
+----------------
+Artist: Scary Pockets
+----------------
+Album: Nu Funk
+
+Song Information
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Preview: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Album: Selfies on Kodachrome
+
+Song Information
+----------------
+Artist: "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Song Preview: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+Song Information
+----------------
+Artist: #90s Update
+Song Preview: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Album: #90s Update
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Album: NOW That's What I Call 90s Pop
+
+Song Information
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Artist: Glee Cast
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Song Information
+----------------
+Artist: Landon Austin & Julia Sheer
+Song Preview: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+Album: I Want It That Way
+
+Song Information
+----------------
+Artist: Kidz Bop Kids
+Song Preview: https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx
+Album: Kidz Bop
+Album: The Essential "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Song Preview: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+
+----------------- Search Spotify ----------------------------
+----------------
+
+Song Information
+
+Song: "I Want it That Way"
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+----------------
+
+Song Information
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+----------------
+Artist: Anthem Lights
+Song Preview: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Album: Covers Part IV
+----------------
+Artist: Tyler and Mark
+Song Preview: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+Album: Beautiful Dreams
+
+Song Information
+----------------
+Artist: "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Album: Poodle Hat
+
+Song Information
+----------------
+Artist: Dynamite Boy
+Song Preview: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Album: Punk Goes Pop
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Album: 90 Sweet 90s Hits!
+
+Song Information
+----------------
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Album: NKOTBSB
+
+Song Information
+----------------
+Artist: Glee Cast
+Song Preview: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Song Information
+----------------
+Artist: Boyce Avenue
+Song Preview: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Album: Cover Sessions, Vol. 2
+
+Song Information
+----------------
+Artist: Manuel Costa
+Song Preview: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Album: I Want It That Way
+
+Song Information
+----------------
+Album: Millennium
+Song Preview: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Album: I Want It That Way
+
+Song Information
+----------------
+
+Song Information
+Song Preview: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Album: Nu Funk
+
+Song Information
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Preview: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Artist: Steel Panther
+
+Song Information
+----------------
+Artist: "Weird Al" Yankovic
+Song Preview: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Album: The Essential "Weird Al" Yankovic
+
+Song Information
+----------------
+Artist: #90s Update
+Song Preview: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Album: #90s Update
+
+Song Information
+Album: Selfies on Kodachrome
+Artist: Backstreet Boys
+Song Preview: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Album: NOW That's What I Call 90s Pop
+
+Song Information
+----------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song Preview: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Album: PMJ Is For Lovers: The Love Song Collection
+
+Song Information
+----------------
+Artist: Landon Austin & Julia Sheer
+Song Preview: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+Album: I Want It That Way
+
+Song Information
+----------------
+Artist: Kidz Bop Kids
+Song Preview: https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx
+Album: Kidz Bop
+Artist: Scary Pockets
+----------------
+
+Song Information

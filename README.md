@@ -13,6 +13,13 @@ I also log all the output to a file called log.txt
 
 ### Screen Shots
 
+![SS1](assets/images/sampleScreens/ss1.png)
+![SS2](assets/images/sampleScreens/ss2.png)
+![SS3](assets/images/sampleScreens/ss3.png)
+![SS4](assets/images/sampleScreens/ss4.png)
+![SS5](assets/images/sampleScreens/ss5.png)
+![SS6](assets/images/sampleScreens/ss6.png)
+
 ### Components
 
 1. LIRI can search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
@@ -101,9 +108,5 @@ Because of this, I include screenshots, and animaited gifs showing the working a
      * Edit the text in random.txt to test out this feature for movie-this and concert-this.
 
 ### To Do
-
-* Create sample images and add to my portfolio
-  
-* Put output / running images in README.md
   
 - - -
